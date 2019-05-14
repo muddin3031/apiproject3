@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: url('https://i.pinimg.com/originals/76/26/d7/7626d73942c01632c95e9691931166e0.jpg') !important;
+    font-family: 'Permanent Marker', cursive;
+}
+
+
+#imgcd {
+    display:none;
+    width: 40%;
+    margin-left: 75px;
+}
+
+p {
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+}
+#state{
+    display:block;
+}
